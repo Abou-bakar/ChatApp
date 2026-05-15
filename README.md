@@ -20,7 +20,7 @@ Users can register, login, and exchange messages instantly across devices.
 - Android Studio
 
 ## Screenshots
-(Add screenshots of your app here)
+To be added
 
 ## How to Run
 1. Clone this repository
